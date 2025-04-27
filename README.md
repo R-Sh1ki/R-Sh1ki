@@ -25,4 +25,15 @@ Here are some ideas to get you started:
   <img height="120"  src="https://github-readme-stats.vercel.app/api/top-langs?username=r-sh1ki&show_icons=true&locale=en&layout=compact&theme=nord&border_radius=4&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="salma-elbakkouri" style="margin: 0" />
 </div>
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<!-- <div align="center"> -->
+<!--   <img width=400 src="./profile-3d-contrib/profile-night-rainbow.svg"/> -->
+<!-- </div> -->
+
+<div align="center">
+  <a href="https://github.com/R-Sh1ki/env-setup">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-sh1ki&repo=env-setup&theme=nord" />
+  </a>
+  <a href="https://github.com/R-Sh1ki/r-sh1ki.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-sh1ki&repo=r-sh1ki.github.io&theme=nord" />
+  </a>
+</div>
