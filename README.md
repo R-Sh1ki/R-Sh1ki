@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
+<div align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=py,anaconda,arduino,bash,c,cpp,cmake,cs,git,github,html,js,kali,latex,lua,md,matlab,mysql,neovim,opencv,qt,raspberrypi,ros,sqlite,vim,vue,vscode&theme=dark" />
+</div>
+---
 <div align="center" style="display:flex;flex-direction:row;justify-content:center;">
   <img height="120"  src="https://streak-stats.demolab.com?user=r-sh1ki&theme=nord&border_radius-10" alt="streak stats" style="margin: 0" />
   <img height="120"  src="https://github-readme-stats-salesp07.vercel.app/api?username=r-sh1ki&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=5" alt="readme stats" style="margin: 0" /> 
