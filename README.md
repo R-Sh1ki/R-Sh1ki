@@ -21,11 +21,3 @@ Here are some ideas to get you started:
   <img height="120"  src="https://github-readme-stats-salesp07.vercel.app/api?username=r-sh1ki&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=5" alt="readme stats" style="margin: 0" /> 
   <img height="120"  src="https://github-readme-stats.vercel.app/api/top-langs?username=r-sh1ki&show_icons=true&locale=en&layout=compact&theme=nord&border_radius=4&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="salma-elbakkouri" style="margin: 0" />
 </div>
-
-
-<div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-salesp07.vercel.app/api?username=r-sh1ki&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=5" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs?username=r-sh1ki&show_icons=true&locale=en&layout=compact&theme=nord&border_radius=4&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" /></div>
-</div>
