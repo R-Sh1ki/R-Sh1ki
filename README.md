@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=py,anaconda,arduino,bash,c,cpp,cmake,cs,git,github,html,js,kali,latex,lua,md,matlab,mysql,neovim,opencv,qt,raspberrypi,ros,sqlite,vim,vue,vscode&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img align="center" src="https://skillicons.dev/icons?i=py,anaconda,arduino,bash,c,cpp,cmake,cs,git,github,html,js,kali,latex,lua,md,matlab,mysql,neovim,opencv,qt,raspberrypi,ros,sqlite,vim,vue,vscode&theme=dark" />
+  </a>
 </div>
 ---
 <div align="center" style="display:flex;flex-direction:row;justify-content:center;">
