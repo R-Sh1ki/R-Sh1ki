@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hi👋&fontSize=30&fontColor=ebcb8b&color=81a1c1&fontAlignY=30&height=140&&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hi👋&fontSize=30&fontColor=ebcb8b&color=81a1c1&fontAlignY=30&height=140&animation=fadeIn" />
 </p>
 
 <div align="center">
@@ -29,11 +29,17 @@ Here are some ideas to get you started:
 <!--   <img width=400 src="./profile-3d-contrib/profile-night-rainbow.svg"/> -->
 <!-- </div> -->
 
-<div align="center">
-  <a href="https://github.com/R-Sh1ki/env-setup">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-sh1ki&repo=env-setup&theme=nord" />
-  </a>
-  <a href="https://github.com/R-Sh1ki/r-sh1ki.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-sh1ki&repo=r-sh1ki.github.io&theme=nord" />
-  </a>
-</div>
+
+<!--   <a href="https://github.com/R-Sh1ki/env-setup">
+    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=r-sh1ki&repo=env-setup&theme=nord" />
+  </a> -->
+<!--   <a href="https://github.com/R-Sh1ki/r-sh1ki.github.io">
+    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=r-sh1ki&repo=r-sh1ki.github.io&theme=nord" />
+  </a> -->
+<!--   <a href="https://github.com/R-Sh1ki/env-setup">
+    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=r-sh1ki&repo=env-setup&theme=nord" />
+  </a> -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=81a1c1&animation=fadeIn&section=footer" />
+</p>
+
