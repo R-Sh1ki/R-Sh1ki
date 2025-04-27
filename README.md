@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 </div>
 [![GitHub Streak](https://streak-stats.demolab.com?user=r-sh1ki&theme=nordfox)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=r-sh1ki&theme=nordfox" alt="GitHub Streak" /></a>
 <div style="display:flex;flex-direction:row;justify-content:center;">
   <img height="140"  src="https://streak-stats.demolab.com?user=r-sh1ki&count private=true&theme=nord&border_radius-10" alt="streak stats" style="margin: 0" />
   <img height="140"  src="https://github-readme-stats-salesp07.vercel.app/api?username=r-sh1ki&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=5" alt="readme stats" style="margin: 0" /> 
